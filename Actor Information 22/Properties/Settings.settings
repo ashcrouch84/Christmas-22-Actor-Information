@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Actor_Information_22.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="aiPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1111</Value>
+    </Setting>
+    <Setting Name="aiHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">access802899325.webspace-data.io</Value>
+    </Setting>
+    <Setting Name="aiPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jadzia1984!</Value>
+    </Setting>
+    <Setting Name="aiPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="aiUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u98941559</Value>
+    </Setting>
+    <Setting Name="aiRFAdult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/hQDo6TUAuImqWENYQjdjMHhdKeiFYqsvMKhMPNBgM7oXUCNkXB4rtBH7i3tYubYh</Value>
+    </Setting>
+    <Setting Name="aiRFChild" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/uzmQIAHBSH6kusMp9tNpbSvEn5IGJKaB5ESX3WUWmPeMVNRnBFxudnt4ubtaAfbJ</Value>
+    </Setting>
+    <Setting Name="aiRFFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/3hbQnlLEQA870bKszQg8dIWQ5cLzZm2wOCJj5zym0eFKZwgBn2T0ZS9i03fit53q</Value>
+    </Setting>
+    <Setting Name="aiSaveLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="aiDCPW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TFI4gOfiMnABxa4UG9BuJAh4fUjayi5ySGHVB0XeT3qrgdFh8gj27ArwUUH8pBFZ</Value>
+    </Setting>
+    <Setting Name="aiFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11/11/2021</Value>
+    </Setting>
+    <Setting Name="aiTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">24/12/2021</Value>
+    </Setting>
+    <Setting Name="aiTimerInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="aiProgramName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bartholomew</Value>
+    </Setting>
+    <Setting Name="aiChildChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</Value>
+    </Setting>
+    <Setting Name="aiAdultChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</Value>
+    </Setting>
+    <Setting Name="aiFamilyChecked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</Value>
+    </Setting>
+    <Setting Name="aiSavedChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="aiRF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/GatherBooking</Value>
+    </Setting>
+    <Setting Name="aiFontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="aiSaveType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="aiSavedFTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="aiSavedLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="aiLocalBackup" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
